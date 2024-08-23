@@ -1,11 +1,11 @@
-## Experiment 7
-# Aim
+# Experiment 7
+## Aim
 To create and perform basic operations on arrays and strings in C++.
 
-# Software Used
+## Software Used
 - VS Code
 
-# Problem Statements:
+## Problem Statements:
 
 1. **Create an Array**
    - Write a C++ program to define and initialize an array.
@@ -34,13 +34,13 @@ To create and perform basic operations on arrays and strings in C++.
 9. **Check for Palindrome**
    - Write a C++ program to check if a string is a palindrome.
 
-# Theory
+## Theory
 
 **Arrays:** In C++, an array is a data structure that stores multiple values of the same data type in contiguous memory locations. Arrays are useful for organizing data and performing operations on multiple elements simultaneously.
 
 **Strings:** In C++, strings are sequences of characters. They can be represented using either the std::string class or C-style character arrays. Strings are used for storing and manipulating text data effectively.
 
-# Program Codes:
+## Program Codes:
 
 ```javascript
 // Nikhil
@@ -252,7 +252,7 @@ int main()
     return 0;
 }
 ```
-# Outputs:
+## Outputs:
 1.
 
 ![Screenshot 2024-08-23 094726](https://github.com/user-attachments/assets/2fba8144-da6c-4454-babf-f0ded2cc2231)
@@ -289,7 +289,7 @@ int main()
 
 ![Screenshot 2024-08-23 100649](https://github.com/user-attachments/assets/c0b68d42-d4db-48a2-b1cf-86a026b48265)
 
-# Conclusion:
+## Conclusion:
 - We learned how to create and work with arrays, including tasks such as reversing the order of elements, calculating the total sum, and identifying the maximum and minimum values.
 - Additionally, we covered techniques for searching for specific elements, counting their occurrences, and performing various string operations like concatenation, reversing strings, and checking if a string is a palindrome.
 

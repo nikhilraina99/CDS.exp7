@@ -253,6 +253,42 @@ int main()
 }
 ```
 # Outputs:
+1.
+
+![Screenshot 2024-08-23 094726](https://github.com/user-attachments/assets/2fba8144-da6c-4454-babf-f0ded2cc2231)
+
+2.
+
+![Screenshot 2024-08-23 095001](https://github.com/user-attachments/assets/6ac96618-b58a-463f-9473-15987b4ce652)
+
+3.
+
+![Screenshot 2024-08-23 095341](https://github.com/user-attachments/assets/e6d933b2-29bb-4500-a49a-72b977a2861e)
+
+4.
+
+![Screenshot 2024-08-23 095728](https://github.com/user-attachments/assets/50f90871-3a8b-4238-bd0d-d49e2e025b3c)
+
+5.
+
+![Screenshot 2024-08-23 100116](https://github.com/user-attachments/assets/4acc45a5-a5c2-4970-81fc-2b38de8bbd5e)
+
+6.
+
+![Screenshot 2024-08-23 094441](https://github.com/user-attachments/assets/170d36a5-5dee-445d-8b0e-54414bd6f657)
+
+7.
+
+![Screenshot 2024-08-23 100242](https://github.com/user-attachments/assets/1ad64ccf-13c2-49ff-9ecd-8dbd2e6c7173)
+
+8.
+
+![Screenshot 2024-08-23 100505](https://github.com/user-attachments/assets/16812bac-45c1-46ee-9d6b-d41dbff878a5)
+
+9.
+
+![Screenshot 2024-08-23 100649](https://github.com/user-attachments/assets/c0b68d42-d4db-48a2-b1cf-86a026b48265)
+
 
 
 
